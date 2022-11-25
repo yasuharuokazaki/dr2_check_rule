@@ -1,0 +1,882 @@
+{
+  "extract_select": {
+    "FS-2-001": {
+      "0": [
+        6,
+        24
+      ],
+      "1": [
+        6,
+        27
+      ],
+      "2": [
+        6,
+        30
+      ],
+      "3": [
+        6,
+        33
+      ]
+    },
+    "FS-2-002": {
+      "0": [
+        19,
+        25
+      ],
+      "1": [
+        19,
+        27
+      ]
+    },
+    "FS-2-004": {
+      "0": [
+        5,
+        42
+      ],
+      "1": [
+        5,
+        44
+      ]
+    },
+    "FS-2-006": {
+      "0": [
+        6,
+        57
+      ],
+      "1": [
+        6,
+        59
+      ]
+    },
+    "FS-2-011": {
+      "0": [
+        6,
+        89
+      ],
+      "1": [
+        6,
+        92
+      ]
+    },
+    "FS-2-021": {
+      "0": [
+        6,
+        109
+      ],
+      "1": [
+        6,
+        112
+      ]
+    },
+    "FS-2-031": {
+      "0": [
+        27,
+        86
+      ],
+      "1": [
+        27,
+        88
+      ]
+    },
+    "FS-2-035": {
+      "0": [
+        27,
+        86
+      ],
+      "1": [
+        27,
+        88
+      ]
+    },
+    "FS-2-039": {
+      "0": [
+        27,
+        102
+      ],
+      "1": [
+        27,
+        104
+      ]
+    },
+    "FS-2-042": {
+      "0": [
+        6,
+        116
+      ],
+      "1": [
+        6,
+        118
+      ]
+    },
+    "FS-2-046": {
+      "0": [
+        11,
+        116
+      ],
+      "1": [
+        11,
+        118
+      ]
+    },
+    "FS-2-055": {
+      "1": [
+        40,
+        10
+      ]
+    },
+    "FS-2-056": {
+      "1": [
+        40,
+        29
+      ]
+    },
+    "FS-2-057": {
+      "1": [
+        41,
+        10
+      ]
+    },
+    "FS-2-059": {
+      "1": [
+        41,
+        27
+      ]
+    },
+    "FS-2-061": {
+      "1": [
+        37,
+        74
+      ]
+    },
+    "FS-2-062": {
+      "0": [
+        39,
+        74
+      ],
+      "1": [
+        40,
+        74
+      ],
+      "2": [
+        41,
+        74
+      ],
+      "3": [
+        39,
+        80
+      ],
+      "4": [
+        40,
+        80
+      ],
+      "5": [
+        41,
+        80
+      ],
+      "6": [
+        39,
+        86
+      ]
+    },
+    "FS-2-063": {
+      "0": [
+        39,
+        92
+      ],
+      "1": [
+        40,
+        92
+      ],
+      "2": [
+        41,
+        92
+      ]
+    },
+    "FS-2-064": {
+      "0": [
+        39,
+        99
+      ],
+      "1": [
+        40,
+        99
+      ],
+      "2": [
+        41,
+        99
+      ],
+      "3": [
+        39,
+        105
+      ],
+      "4": [
+        40,
+        105
+      ]
+    },
+    "FS-2-065": {
+      "0": [
+        39,
+        111
+      ],
+      "1": [
+        40,
+        111
+      ],
+      "2": [
+        39,
+        118
+      ],
+      "3": [
+        40,
+        118
+      ]
+    },
+    "FS-2-066": {
+      "0": [
+        39,
+        126
+      ],
+      "1": [
+        40,
+        126
+      ],
+      "2": [
+        41,
+        126
+      ]
+    },
+    "FS-2-067": {
+      "1": [
+        42,
+        74
+      ]
+    },
+    "FS-2-072": {
+      "0": [
+        68,
+        75
+      ],
+      "1": [
+        68,
+        87
+      ],
+      "2": [
+        69,
+        75
+      ]
+    },
+    "FS-2-074": {
+      "0": [
+        45,
+        104
+      ],
+      "1": [
+        50,
+        104
+      ]
+    },
+    "FS-2-079": {
+      "1": [
+        56,
+        104
+      ]
+    },
+    "FS-2-080": {
+      "1": [
+        56,
+        110
+      ]
+    },
+    "FS-2-082": {
+      "1": [
+        56,
+        123
+      ]
+    },
+    "FS-2-084": {
+      "1": [
+        57,
+        104
+      ]
+    },
+    "FS-2-085": {
+      "1": [
+        57,
+        119
+      ]
+    },
+    "FS-2-086": {
+      "0": [
+        60,
+        110
+      ],
+      "1": [
+        60,
+        118
+      ],
+      "2": [
+        60,
+        126
+      ]
+    },
+    "FS-2-088": {
+      "0": [
+        62,
+        104
+      ],
+      "1": [
+        62,
+        111
+      ],
+      "2": [
+        62,
+        118
+      ],
+      "3": [
+        62,
+        125
+      ]
+    },
+    "FS-2-090": {
+      "1": [
+        64,
+        104
+      ]
+    }
+  },
+  "extract_number": {},
+  "extract_pattern": {
+    "FS-2-003": {
+      "coordinates": [
+        20,
+        24,
+        35
+      ],
+      "prepattern": "風力係数の割増=",
+      "postpattern": "\\%"
+    },
+    "FS-2-005": {
+      "coordinates": [
+        6,
+        44,
+        55
+      ],
+      "prepattern": "風速の割増=",
+      "postpattern": "\\%"
+    },
+    "FS-2-007": {
+      "coordinates": [
+        7,
+        61,
+        72
+      ],
+      "prepattern": "最大Cpe=",
+      "postpattern": ""
+    },
+    "FS-2-008": {
+      "coordinates": [
+        8,
+        61,
+        72
+      ],
+      "prepattern": "最小Cpe=",
+      "postpattern": ""
+    },
+    "FS-2-009": {
+      "coordinates": [
+        9,
+        61,
+        72
+      ],
+      "prepattern": "ピーク風力係数=",
+      "postpattern": ""
+    },
+    "FS-2-010": {
+      "coordinates": [
+        10,
+        61,
+        72
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-012": {
+      "coordinates": [
+        7,
+        81,
+        95
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-013": {
+      "coordinates": [
+        7,
+        81,
+        95
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-014": {
+      "coordinates": [
+        8,
+        81,
+        95
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-015": {
+      "coordinates": [
+        9,
+        81,
+        95
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-016": {
+      "coordinates": [
+        9,
+        81,
+        95
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-017": {
+      "coordinates": [
+        10,
+        81,
+        95
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-018": {
+      "coordinates": [
+        11,
+        81,
+        95
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-019": {
+      "coordinates": [
+        11,
+        81,
+        95
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-020": {
+      "coordinates": [
+        12,
+        81,
+        95
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-022": {
+      "coordinates": [
+        7,
+        101,
+        115
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-023": {
+      "coordinates": [
+        7,
+        101,
+        115
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-024": {
+      "coordinates": [
+        8,
+        101,
+        115
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-025": {
+      "coordinates": [
+        9,
+        101,
+        115
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-026": {
+      "coordinates": [
+        9,
+        101,
+        115
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-027": {
+      "coordinates": [
+        10,
+        101,
+        115
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-028": {
+      "coordinates": [
+        11,
+        101,
+        115
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-029": {
+      "coordinates": [
+        11,
+        101,
+        115
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-030": {
+      "coordinates": [
+        12,
+        101,
+        115
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-032": {
+      "coordinates": [
+        29,
+        60,
+        70
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-033": {
+      "coordinates": [
+        31,
+        60,
+        70
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-034": {
+      "coordinates": [
+        33,
+        60,
+        70
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-036": {
+      "coordinates": [
+        28,
+        86,
+        98
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-037": {
+      "coordinates": [
+        28,
+        86,
+        98
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-038": {
+      "coordinates": [
+        29,
+        86,
+        98
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-040": {
+      "coordinates": [
+        28,
+        102,
+        114
+      ],
+      "prepattern": "正圧",
+      "postpattern": ""
+    },
+    "FS-2-041": {
+      "coordinates": [
+        29,
+        102,
+        114
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-043": {
+      "coordinates": [
+        7,
+        120,
+        132
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-044": {
+      "coordinates": [
+        7,
+        120,
+        132
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-045": {
+      "coordinates": [
+        8,
+        120,
+        132
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-047": {
+      "coordinates": [
+        12,
+        120,
+        132
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-048": {
+      "coordinates": [
+        12,
+        120,
+        132
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-049": {
+      "coordinates": [
+        13,
+        120,
+        132
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-050": {
+      "coordinates": [
+        14,
+        120,
+        132
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-051": {
+      "coordinates": [
+        16,
+        120,
+        132
+      ],
+      "prepattern": "正圧",
+      "postpattern": "負圧"
+    },
+    "FS-2-052": {
+      "coordinates": [
+        16,
+        120,
+        132
+      ],
+      "prepattern": "負圧",
+      "postpattern": ""
+    },
+    "FS-2-053": {
+      "coordinates": [
+        17,
+        120,
+        132
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-054": {
+      "coordinates": [
+        18,
+        120,
+        132
+      ],
+      "prepattern": "設計用風圧力=",
+      "postpattern": "Pa"
+    },
+    "FS-2-058": {
+      "coordinates": [
+        41,
+        11,
+        27
+      ],
+      "prepattern": "\\(",
+      "postpattern": "\\)"
+    },
+    "FS-2-060": {
+      "coordinates": [
+        41,
+        28,
+        40
+      ],
+      "prepattern": "\\(",
+      "postpattern": "\\)"
+    },
+    "FS-2-068": {
+      "coordinates": [
+        66,
+        84,
+        95
+      ],
+      "prepattern": "外気\\(",
+      "postpattern": "\\)°C"
+    },
+    "FS-2-069": {
+      "coordinates": [
+        66,
+        84,
+        95
+      ],
+      "prepattern": "°C\\(",
+      "postpattern": "\\)%"
+    },
+    "FS-2-070": {
+      "coordinates": [
+        67,
+        84,
+        95
+      ],
+      "prepattern": "室内\\(",
+      "postpattern": "\\)°C"
+    },
+    "FS-2-071": {
+      "coordinates": [
+        67,
+        84,
+        95
+      ],
+      "prepattern": "°C\\(",
+      "postpattern": "\\)%"
+    },
+    "FS-2-073": {
+      "coordinates": [
+        68,
+        88,
+        95
+      ],
+      "prepattern": "保持時間\\(",
+      "postpattern": "\\)時間"
+    },
+    "FS-2-075": {
+      "coordinates": [
+        46,
+        106,
+        117
+      ],
+      "prepattern": "一般部\\(固定部\\)\\(",
+      "postpattern": "\\)Pa"
+    },
+    "FS-2-076": {
+      "coordinates": [
+        48,
+        106,
+        117
+      ],
+      "prepattern": "可動部\\(",
+      "postpattern": "\\)Pa"
+    },
+    "FS-2-077": {
+      "coordinates": [
+        51,
+        106,
+        117
+      ],
+      "prepattern": "一般部\\(固定部\\)\\(",
+      "postpattern": "\\)Pa"
+    },
+    "FS-2-078": {
+      "coordinates": [
+        53,
+        106,
+        117
+      ],
+      "prepattern": "可動部\\(",
+      "postpattern": "\\)Pa"
+    },
+    "FS-2-081": {
+      "coordinates": [
+        56,
+        111,
+        122
+      ],
+      "prepattern": "\\(部位:",
+      "postpattern": "\\)"
+    },
+    "FS-2-083": {
+      "coordinates": [
+        56,
+        124,
+        142
+      ],
+      "prepattern": "\\(部位:",
+      "postpattern": "\\)"
+    },
+    "FS-2-087": {
+      "coordinates": [
+        60,
+        127,
+        132
+      ],
+      "prepattern": "その他\\[",
+      "postpattern": "]"
+    },
+    "FS-2-089": {
+      "coordinates": [
+        63,
+        105,
+        132
+      ],
+      "prepattern": "D-\\[",
+      "postpattern": "]"
+    },
+    "FS-2-091": {
+      "coordinates": [
+        64,
+        105,
+        132
+      ],
+      "prepattern": "\\[",
+      "postpattern": "]"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.dr2_rule/
+*.xlsx
+*.txt
+*.xlsm
+*.ipynb

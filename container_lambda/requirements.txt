@@ -1,0 +1,6 @@
+boto3
+pandas
+openpyxl
+python-dotenv
+requests_aws4auth
+xlrd
